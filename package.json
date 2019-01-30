@@ -1,23 +1,23 @@
 {
   "name": "nodejsbasico",
   "version": "1.0.0",
-  "description": "Repositorio para el curso básico de Node.js de Platzi.",
+  "description": "FileSystem",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/platzi/nodejsbasico.git"
+    "url": "git+https://github.com/hernangiraldo89/nodejsbasico.git"
   },
   "keywords": [
-    "nodejs",
-    "basico"
+    "FileSystem",
+    "Node"
   ],
-  "author": "Platzi",
+  "author": "Hernán Giraldo",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/platzi/nodejsbasico/issues"
+    "url": "https://github.com/hernangiraldo89/nodejsbasico/issues"
   },
-  "homepage": "https://github.com/platzi/nodejsbasico#readme"
+  "homepage": "https://github.com/hernangiraldo89/nodejsbasico#readme"
 }
